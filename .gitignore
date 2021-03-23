@@ -1,0 +1,5 @@
+
+_build/doctrees/
+.vscode/
+__pycache__/
+*.py[cod]
